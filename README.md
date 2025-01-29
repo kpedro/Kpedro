@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Kadson Pedro! 👋
 
-<!--
-**kpedro/Kpedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+- 🎓 Educador e empreendedor desde 1996.
+- 💼 Especialista em marketing de rede e desenvolvimento pessoal.
+- 🌱 Atualmente aprendendo sobre tecnologia e inovação.
 
-Here are some ideas to get you started:
+## Projetos em Destaque
+- [Blog Crescer & Empreender](#) - Um blog sobre empreendedorismo e crescimento pessoal.
+- [Ring your audio](#) - Projeto experimental com foco em áudio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- 📧 Email: kadson.pedro@gmail.com
+- 💼 LinkedIn: [Kadson Pedro](#)
