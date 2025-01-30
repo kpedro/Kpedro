@@ -11,4 +11,4 @@
 
 ## Contato
 - 📧 Email: kadson.pedro@gmail.com
-- 💼 LinkedIn: [Kadson Pedro](#)
+- 💼 LinkedIn: [Kadson Pedro](https://www.linkedin.com/in/kadsonpedro/)
