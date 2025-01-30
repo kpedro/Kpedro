@@ -7,7 +7,7 @@
 
 ## Projetos em Destaque
 - [Blog Crescer & Empreender](https://github.com/kpedro/crescer-empreender-blog) - Um blog sobre empreendedorismo e crescimento pessoal.
-- [Ring your audio](#) - Projeto experimental com foco em áudio.
+- [Blog Kadson Pedro](#) - Blog criado para compartilhar ideias sobre mentalidade, educação e produtividade.
 
 ## Contato
 - 📧 Email: kadson.pedro@gmail.com
