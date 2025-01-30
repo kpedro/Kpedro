@@ -6,7 +6,7 @@
 - 🌱 Atualmente aprendendo sobre tecnologia e inovação.
 
 ## Projetos em Destaque
-- [Blog Crescer & Empreender](#) - Um blog sobre empreendedorismo e crescimento pessoal.
+- [Blog Crescer & Empreender](https://github.com/kpedro/crescer-empreender-blog) - Um blog sobre empreendedorismo e crescimento pessoal.
 - [Ring your audio](#) - Projeto experimental com foco em áudio.
 
 ## Contato
